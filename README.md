@@ -7,3 +7,8 @@ skin-recognition
 ![human_face_only2](https://github.com/rezaanalytics11/assignment30/assets/105513524/e9c84f4f-ff88-48db-9809-8e714cedb929)
 ![human_face_only1](https://github.com/rezaanalytics11/assignment30/assets/105513524/4e454848-b001-4a26-beb5-cf897eeeb2d8)
 ![human_face_only](https://github.com/rezaanalytics11/assignment30/assets/105513524/e8ba1fb7-8c6e-443f-bdc4-6e70490c1534)
+
+![Uploading human_face_only23.jpg…]()
+![human_face_only22](https://github.com/rezaanalytics11/assignment30/assets/105513524/9c3829ac-2fbd-4b48-b86e-e29ef7f6d8bb)
+![human_face_only21](https://github.com/rezaanalytics11/assignment30/assets/105513524/f21aa38c-4dff-474a-be48-83060f873590)
+
